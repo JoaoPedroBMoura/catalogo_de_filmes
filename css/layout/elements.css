@@ -1,0 +1,48 @@
+.card-section{
+    width: 32em;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 3em;
+}
+
+.item {
+	margin: 5px;
+	background: tomato;
+	text-align: center;
+	font-size: 1.5em;
+}
+
+.container {
+	max-width: 400px;
+	margin: 0 auto;
+	border: 1px solid #ccc;
+}
+
+.list-no-style{
+	list-style-type: none;
+}
+
+.item-quebra-linha{
+    order: 1;
+    flex: 0 0 50px;
+    box-sizing: border-box;
+}
+
+.card-classificacao{
+    width: 50px !important;
+    height: 3em;
+    display: flex;  
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+    overflow: hidden;
+    flex: 0 0 50px; /* Garante que ele não vai crescer nem encolher */
+    box-sizing: border-box;
+}
+
+.centraliza-estrela{
+    flex: 0 0 100%; /* Ocupa 100% do espaço disponível */
+    width: 100%;
+    text-align: center; /* Centraliza o conteúdo */
+    padding: 10px; 
+}
