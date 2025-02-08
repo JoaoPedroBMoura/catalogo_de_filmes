@@ -5,6 +5,8 @@
 - Esse projeto é um dos sites desenvolvidos durante minha graduação, no curso de Fundamentos da Web.
 - O objetivo principal desse exercício era praticar a manipulação do DOM
 
+  ![Home page](https://raw.githubusercontent.com/JoaoPedroBMoura/catalogo_de_filmes/refs/heads/main/img/Home_do_site_catalogo.png)
+
 ## Tecnologias Utilizadas
 
 - **HTML5:** Estrutura semântica e acessível para a construção das páginas.
